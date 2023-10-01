@@ -19,6 +19,7 @@ Fichiers
 
 	- training_model.csv : échantillon contenant deux categories d'individus vrais et faux billets. records: 170
 	- test_notes.csv : Echantillons permettant de tester l'efficacité du modèle
+	- model_production.ipynb : modèle en production qui permet de tester toutes nouvelles données
 
 	
 =========================================
